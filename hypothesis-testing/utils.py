@@ -74,7 +74,7 @@ def feedback_button() -> None:
                     inset -20px -20px 40px 10px #003b73;
     }
     </style>
-    <a href="https://forms.gle/hipxf2uFw5Ud4Hyn8">
+    <a href="https://forms.gle/eJk9JzahuMz8Cdiq6">
         <button class="button">
             Fill out the feedback form here
         </button>
