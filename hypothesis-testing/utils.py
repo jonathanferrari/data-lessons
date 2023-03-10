@@ -3,7 +3,7 @@ from datascience import *
 from ipywidgets import *
 from IPython.display import *
 
-pairs = [("TVD", lambda left, right: abs(left - right)/2), 
+pairs = [("ADE", lambda left, right: abs(left - right)/2), 
          ("Absolute Difference", lambda left, right: abs(left - right)),
          ("Distance from Expected of Left Hands", lambda left, right: abs(left - 20)),
          ("Distance from Expected of Right Hands", lambda left, right: abs(right - 20)),
